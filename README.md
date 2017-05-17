@@ -26,6 +26,7 @@ This extension for browser safari that improve Bitbucket.org usage.
   - etc.
 - Double click on a word to highlight all occurrences.
 - Quicker navigation through pull requests
+- Files tree view
 
 ## Installing
 The extension is not available on the Safari Extensions Gallery they require to pay 100$ every year.

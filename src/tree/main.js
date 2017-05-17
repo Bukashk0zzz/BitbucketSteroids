@@ -1,0 +1,10 @@
+BDT = {};
+BDT.Models = {};
+BDT.Helpers = {};
+BDT.DomObservers = {};
+require('jstree');
+require('./models/treeNodeModel');
+require('./helpers/htmlHelper');
+require('./observers/newCommentObserver');
+require('./observers/fileChangesObserver');
+require('./content');

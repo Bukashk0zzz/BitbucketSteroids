@@ -23,6 +23,10 @@
 				<string>main.js</string>
 			</array>
 		</dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>main.css</string>
+		</array>
 	</dict>
 	<key>DeveloperIdentifier</key>
 	<string>0000000000</string>

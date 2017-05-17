@@ -9,6 +9,7 @@ module.exports = {
     '.java': 'language-java',
     '.xml': 'language-markup',
     '.html': 'language-markup',
+    '.twig': 'language-markup',
     '.js': 'language-javascript',
     '.css': 'language-css',
     '.cs': 'language-csharp',

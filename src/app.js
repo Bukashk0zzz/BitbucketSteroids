@@ -7,3 +7,6 @@ syntaxHighlight.init();
 occurrencesHighlighter.init();
 keymap.init(Mousetrap);
 events.init();
+
+// Tree
+require('./tree/main');
