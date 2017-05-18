@@ -61,4 +61,5 @@ Key | Action
 See [LICENSE](https://github.com/bukashk0zzz/BitbucketSteroids/blob/master/LICENSE)
 
 ## Thanks
-Repository based on [Refined bitbucket Chrome extension](https://github.com/andremw/refined-bitbucket)
+- [Refined bitbucket Chrome extension](https://github.com/andremw/refined-bitbucket)
+- [Chrome extension to display diff tree for Bitbucket](https://github.com/minhdam/BitbucketDiffTree)
