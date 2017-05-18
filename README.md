@@ -29,11 +29,8 @@ This extension for browser safari that improve Bitbucket.org usage.
 - Files tree view
 
 ## Installing
-The extension is not available on the Safari Extensions Gallery they require to pay 100$ every year.
-Manual installation:
-- Enable developer mode in Safari settings
-- Open Develop->Show Extension Builder
-- Add Extension and install it
+The best way to get the latest version is to [download the release file](https://github.com/bukashk0zzz/BitbucketSteroids/releases/latest) from GitHub.
+The extension is not available on the Safari Extensions Gallery they require to pay 100$ every year for that(
 
 ## Usage
 
