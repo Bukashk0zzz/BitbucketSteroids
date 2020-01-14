@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Bukashk0zzz/BitbucketSteroids#readme",
   "devDependencies": {
     "webpack": "^2.5.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.4.0",
     "mousetrap": "^1.6.1",
     "jquery-highlight": "^3.4.0",
     "prismjs": "^1.6.0",
